@@ -1,0 +1,57 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="UserManService.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="RouterIp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.88.1</Value>
+    </Setting>
+    <Setting Name="ApiPort" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">8728</Value>
+    </Setting>
+    <Setting Name="ApiUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">admin</Value>
+    </Setting>
+    <Setting Name="ApiPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">knt11337799</Value>
+    </Setting>
+    <Setting Name="Header" Type="System.String" Scope="User">
+      <Value Profile="(Default)">IME LOKALA \ \Connect to Wireless Network \and open you web browser. \Put the Password in required field, \then click login button.</Value>
+    </Setting>
+    <Setting Name="GarsonFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\Vauceri</Value>
+    </Setting>
+    <Setting Name="PSHost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="PSName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Primarni</Value>
+    </Setting>
+    <Setting Name="Caffe" Type="System.String" Scope="User">
+      <Value Profile="(Default)">KraftNT</Value>
+    </Setting>
+    <Setting Name="PSEnable" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="GarsonEnable" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="GarsonHost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="GarsonDatabase" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files (x86)\2D Soft\Garson Pos 6\Client\Pos\POS.FDB</Value>
+    </Setting>
+    <Setting Name="GarsonFiscalNumber" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">111</Value>
+    </Setting>
+    <Setting Name="GarsonProfile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">120min</Value>
+    </Setting>
+    <Setting Name="Stanica1" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Stanica2" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
